@@ -1,2 +1,2 @@
 # WKWP
- This is a Webmap shwoing river catchment and towns for WRM
+ This is a Webmap showing river catchment and towns for WRM
